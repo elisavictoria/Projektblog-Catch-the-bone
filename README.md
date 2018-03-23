@@ -14,7 +14,8 @@ Da unser neues Spiel auf der Kommunikation der Items untereinander auf Broadcast
 Zu einem Broadcast Block gehört auch immer ein Respond Block. Der Broadcast Block sendet Informationen über das abegspielte Script an den Respond Block, sodass dieser unmittelbar erfährt, wenn ein Ereignis eingetreten ist. Ein Respond Block, der am Anfang eines neuen Scriptes steht, kann nach Nachricht des Broadcast Blockes, eine neue Aktion aktivieren.
 Insgesamt ermöglichen die Broadcast und Respond Blöcke eine ganz neue Ebene des Programmierens, indem sie Aktionen und Informationen synchronisieren.
 
-
 [Spielanleitung](#drei)
+
+Das von uns gewollte, aber noch nicht vollständig programmierte Ziel des Spiels ist, einen bestimmte Anzahl von Leckerlies einzusammeln, also einen festgelegten Score zu erreichen. Das Spiel soll als Verloren gelten, wenn der Hund die von sich slebst gezogene grüne Linie berührt bzw. überschreitet.
 
 [Fazit](#vier)
