@@ -10,12 +10,6 @@
 
 [3. Hund](#zwei.drei)
 
-[4. Game over](#zwei.vier)
-
-[5. Aliens](#zwei.fünf)
-
-[6. Explosion](#zwei.sechs)
-
 [Spielanleitung](#drei)
 
 [Unsere noch nicht umgesetzten Ziele](#vier)
@@ -23,6 +17,7 @@
 [Fazit](#fünf)
 
 Catch the bone: https://snap.berkeley.edu/snapsource/snap.html#present:Username=elisavictoria&ProjectName=Catch%20the%20bone
+
 
 [Idee](#eins)
 
@@ -40,7 +35,10 @@ Insgesamt ermöglichen die Broadcast und Respond Blöcke eine ganz neue Ebene de
 
 2. Leckerlies<a name="zwei.zwei"></a>
 
+
+
 3. Hund<a name="zwei.drei"></a>
+
 
 
 [Spielanleitung](#drei)
@@ -51,6 +49,7 @@ Das von uns gewollte, aber noch nicht vollständig programmierte Ziel des Spiels
 
 Man könnte optional noch eine Spielerliste mit Variablen einfügen, was wir auch im Onlinekurs BJC gelernt haben.
 
-
-
 [Fazit](#fünf)
+
+Aufgrund Ihrer Abwesenheit und der damit nicht vorhandenen Hilfe, die wir gebraucht hätten, sind wir dieses Mal leider nicht so gut vorran gekommen. Trotzdem haben wir versucht, die von uns bereits geleistete Arbeit für Sie so gut wie möglich darzustellen. Durch dieses noch nicht fertige Spiel haben wir eine wichtige Lektion des Programmierens dazu gelernt: Bugs sind zum einen schwierig zu finden und zum anderen schwierig zu beheben. Der Austausch mit anderen Leuten erscheint dadurch noch essentieller als Programmierer.
+Insgesamt haben wir in dem einen Jahr Informatik Unterricht Einblicke in die vielfältige Welt des Programmierens kennengelernt. Wir "Spielkinder" sind jedoch am Programmieren von Spielen hängen geblieben und haben die Potenziale des einfachen Programmierens mit Snap zu schätzen gelernt.
