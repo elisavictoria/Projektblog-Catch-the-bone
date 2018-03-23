@@ -16,6 +16,12 @@ Insgesamt ermöglichen die Broadcast und Respond Blöcke eine ganz neue Ebene de
 
 [Spielanleitung](#drei)
 
-Das von uns gewollte, aber noch nicht vollständig programmierte Ziel des Spiels ist, einen bestimmte Anzahl von Leckerlies einzusammeln, also einen festgelegten Score zu erreichen. Das Spiel soll als Verloren gelten, wenn der Hund die von sich slebst gezogene grüne Linie berührt bzw. überschreitet.
+Das von uns gewollte, aber noch nicht vollständig programmierte Ziel des Spiels ist, einen bestimmte Anzahl von Leckerlies einzusammeln, also einen festgelegten Score zu erreichen. Das Spiel soll als Verloren gelten, wenn der Hund die von sich slebst gezogene grüne Linie berührt bzw. überschreitet. Der Hund wird von Pfeiltasten gesteuert und geht beim Drücken dieser einen Schritt in die befohlenen Richtung.
+
+[Unsere noch nicht umgesetzten Ziele](#vier)
+
+Man könnte optional noch eine Spielerliste mit Variablen einfügen, was wir auch im Onlinekurs BJC gelernt haben.
+
+
 
 [Fazit](#vier)
