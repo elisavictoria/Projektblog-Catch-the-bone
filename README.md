@@ -4,11 +4,11 @@
 
 [Script Erklärung](#zwei)
 
-[Definition Broadcast Blöcke](#zwei.eins)
+[1. Definition Broadcast Blöcke](#zwei.eins)
 
-[2. Laser](#zwei.zwei)
+[2. Leckerlies](#zwei.zwei)
 
-[3. Winner](#zwei.drei)
+[3. Hund](#zwei.drei)
 
 [4. Game over](#zwei.vier)
 
@@ -31,13 +31,16 @@ Insgesamt wollten wir unser nächstes Spiel auf ein höheres Programmierniveau b
 
 [Script Erklärung](#zwei)
 
-[Definition Broadcast Blöcke]<a name="zwei.eins"></a>
+1. Definition Broadcast Blöcke<a name="zwei.eins"></a>
 
 Da unser neues Spiel auf der Kommunikation der Items untereinander auf Broadcast Blöcken basiert, ist es zunächst wichtig unser Verständins aufzuzeigen und die Aufgabe dieser speziellen Blöcke zu definieren.
 
 Zu einem Broadcast Block gehört auch immer ein Respond Block. Der Broadcast Block sendet Informationen über das abegspielte Script an den Respond Block, sodass dieser unmittelbar erfährt, wenn ein Ereignis eingetreten ist. Ein Respond Block, der am Anfang eines neuen Scriptes steht, kann nach Nachricht des Broadcast Blockes, eine neue Aktion aktivieren.
 Insgesamt ermöglichen die Broadcast und Respond Blöcke eine ganz neue Ebene des Programmierens, indem sie Aktionen und Informationen synchronisieren.
 
+2. Leckerlies<a name="zwei.zwei"></a>
+
+3. Hund<a name="zwei.drei"></a>
 
 
 [Spielanleitung](#drei)
